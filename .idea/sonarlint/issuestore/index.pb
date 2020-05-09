@@ -15,3 +15,5 @@ T
 $src/test/java/LambdaHandlerTest.java,f/9/f91f60fdf1a5cb8951f52e19292bd57e9a565f67
 T
 $src/test/java/ServiceEventsTest.java,1/9/193360a86a3202fbcb5eddd6cd37a8e221d2a567
+U
+%src/test/java/ProviderEventsTest.java,1/5/15502918b8ffc377eddea2e475ba76295bab800a
