@@ -1,0 +1,3 @@
+transcribe/event/provider/ProviderEvents.class
+transcribe/event/LambdaHandler.class
+transcribe/event/services/ServiceEvents.class
